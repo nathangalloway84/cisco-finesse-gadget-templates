@@ -1,7 +1,7 @@
 # react-starter-template
 
 ## ABOUT
-![Screenshot](https://github.com/nathangalloway84/finesse-gadgets/blob/main/cisco-finesse-gadget-templates/react-starter-template/SCREENSHOT.png?raw=true "Screenshot")
+![Screenshot](https://github.com/nathangalloway84/cisco-finesse-gadget-templates/blob/main/react-starter-template/SCREENSHOT.png?raw=true "Screenshot")
 
 This gadget is a starter template for using React to create powerful Finesse gadgets.
 

@@ -1,7 +1,7 @@
 # vue-starter-template
 
 ## ABOUT
-![Screenshot](https://github.com/nathangalloway84/finesse-gadgets/blob/main/cisco-finesse-gadget-templates/vue-starter-template/SCREENSHOT.png?raw=true "Screenshot")
+![Screenshot](https://github.com/nathangalloway84/cisco-finesse-gadget-templates/blob/main/vue-starter-template/SCREENSHOT.png?raw=true "Screenshot")
 
 This gadget is a starter template for using VueJS to create powerful Finesse gadgets.
 

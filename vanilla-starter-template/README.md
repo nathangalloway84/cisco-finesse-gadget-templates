@@ -1,7 +1,7 @@
 # vanilla-starter-template
 
 ## ABOUT
-![Screenshot](https://github.com/nathangalloway84/finesse-gadgets/blob/main/cisco-finesse-gadget-templates/vanilla-starter-template/SCREENSHOT.png?raw=true "Screenshot")
+![Screenshot](https://github.com/nathangalloway84/cisco-finesse-gadget-templates/blob/main/vanilla-starter-template/SCREENSHOT.png?raw=true "Screenshot")
 
 This gadget is a starter template for using VanillaJS to create powerful Finesse gadgets.
 
